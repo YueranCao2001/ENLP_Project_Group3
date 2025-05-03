@@ -1,0 +1,5 @@
+spacy
+bs4
+urllib3
+nltk
+spacy-transformers
